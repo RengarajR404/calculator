@@ -42,3 +42,5 @@ git push origin main
 
 
 Added naturalExponential Function Rengaraj R
+
+### Note that the code in this repository is not written by me. This repository is created as part of the Discover git workshop organized by6 me and my team under the bammer of ascii club.
